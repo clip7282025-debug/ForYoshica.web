@@ -1,0 +1,2 @@
+# ForYoshica.web
+For Yoshica
